@@ -1,0 +1,300 @@
+{
+    "guid": "dca28752-29a2-bce0-3c38-3572ff1c022f",
+    "source": "../SC_Mini_Arena.fbx",
+    "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+    "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+    "instanceGuid": "3f6abce4-2fbe-5c8d-d1e6-ad55f517db72",
+    "data_components": [
+        {
+            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+            "name": "Mini Arena"
+        }
+    ],
+    "children": [
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "66149338-a36a-91b4-ef8c-d1916de844e1",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Banner"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "ddb2684b-e239-a7b5-6702-805aecc58f52"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "8c489404-961f-fee7-3078-a03a02c8fb42",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Block"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "3615b8cb-b3fd-9f78-79bb-815501128359"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "0d9e1272-9137-c71e-7d20-028b26f0e2dc",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Border Corner"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "b4f8019e-2ba3-65af-f3eb-1ad70f9ab16f"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "618606fc-cc94-ed36-389a-343cc9986b1b",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Border Straight"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "370d307c-dc03-06aa-838c-2237ae7ebf92"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "e6310c9d-dbd9-9cdd-75ad-fbb8ad0d1818",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Bricks"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "b59b0d23-db58-e2e3-8ba6-3a90042b4316"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "3d5ef22f-6017-1192-a391-8f4d8d145551",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Column"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "58af6997-9789-9fe8-8909-13268032e5d0"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "fe6e958e-82c3-21d2-d919-58f419750f10",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Column Damaged"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "28c0d76c-6f3b-9f38-a490-8ce135402c11"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "b4b8218d-f8b2-4dec-c4c3-f3fe6572b775",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Floor"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "70ae588e-e0c5-ac3e-05a9-6d895764fbca"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "57c10396-db67-1ce6-6e62-64c0aaa42dbf",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Floor Detail"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "d2c69389-3be8-07f6-5066-9c8bb7e8e825"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "80ae397e-a660-a97a-03c0-25b53e96a546",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Stairs"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "38e0f667-4fa2-5a06-ddd2-5be0ea70dfd4"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "7a48cd82-fef7-90ed-e3be-a0ec432976b2",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Stairs Corner"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "f0898131-26a0-6743-192c-07a968ccd7ff"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "bf5a2a39-e837-5913-e530-8816a0ecc329",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Stairs Corner Inner"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "3a72dea4-dbcb-5edb-e486-52310e6a3519"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "b811f04d-9487-f124-042a-4edf141ba43b",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Statue"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "1f1461e8-23d3-1bd1-8eef-359309a40e0e"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "5a149f4c-1ed9-b3f6-7fee-764cd0c83bc4",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Tree"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "a5f216fd-dc9d-296f-425a-c437f3fdcef4"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "6455b539-d861-caef-1d23-dfd86f5fcb61",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Trophy"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "945321bf-dd73-eabe-725e-05a731243dd2"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "0d680fdc-0c3f-a789-2c60-7ed45825327c",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Wall"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "b7e39379-ad7c-2e75-f78d-8d2b11b9f270"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "f0f8c374-ce8f-69d0-71ea-7d68694d44b8",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Wall Corner"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "7cd58530-a387-6483-1581-db3d4654ab3d"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "a9ce3933-21d3-fac5-707e-a1f8620f99f4",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Wall Gate Bars"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "c8f92f62-d976-ec86-dd4a-769ff0e83d56"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "2b746ce6-f5e4-49ac-f015-a98e94f7ab71",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Wall Gate"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "488ae9ba-01e2-dc7e-4d19-34e879e56e3f"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "e99efa7e-54df-2cec-4eb8-2d99056f8c94",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Weapon Rack"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "672c82aa-5211-c880-16e1-edcc6ebc0042"
+            }
+        }
+    ],
+    "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+        "scene": "dca28752-29a2-bce0-3c38-3572ff1c022f"
+    },
+    "dependencies": [
+        "ddb2684b-e239-a7b5-6702-805aecc58f52",
+        "3615b8cb-b3fd-9f78-79bb-815501128359",
+        "b4f8019e-2ba3-65af-f3eb-1ad70f9ab16f",
+        "370d307c-dc03-06aa-838c-2237ae7ebf92",
+        "b59b0d23-db58-e2e3-8ba6-3a90042b4316",
+        "58af6997-9789-9fe8-8909-13268032e5d0",
+        "28c0d76c-6f3b-9f38-a490-8ce135402c11",
+        "70ae588e-e0c5-ac3e-05a9-6d895764fbca",
+        "d2c69389-3be8-07f6-5066-9c8bb7e8e825",
+        "38e0f667-4fa2-5a06-ddd2-5be0ea70dfd4",
+        "f0898131-26a0-6743-192c-07a968ccd7ff",
+        "3a72dea4-dbcb-5edb-e486-52310e6a3519",
+        "1f1461e8-23d3-1bd1-8eef-359309a40e0e",
+        "a5f216fd-dc9d-296f-425a-c437f3fdcef4",
+        "945321bf-dd73-eabe-725e-05a731243dd2",
+        "b7e39379-ad7c-2e75-f78d-8d2b11b9f270",
+        "7cd58530-a387-6483-1581-db3d4654ab3d",
+        "c8f92f62-d976-ec86-dd4a-769ff0e83d56",
+        "488ae9ba-01e2-dc7e-4d19-34e879e56e3f",
+        "672c82aa-5211-c880-16e1-edcc6ebc0042"
+    ]
+}
