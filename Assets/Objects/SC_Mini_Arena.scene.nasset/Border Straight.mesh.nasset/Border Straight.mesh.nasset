@@ -1,0 +1,75 @@
+{
+    "guid": "370d307c-dc03-06aa-838c-2237ae7ebf92",
+    "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+    "tags": [
+        "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+    ],
+    "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+    "instanceGuid": "9090614e-2a10-dc15-d5ce-67ed3be9f410",
+    "data_components": [],
+    "children": [
+        {
+            "typeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+            "instanceGuid": "5aa78be4-6e59-6a95-6610-341158939d71",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Border Straight Physics Body"
+                },
+                {
+                    "typeGuid": "653ee503-f473-47d2-be45-08a577d17b86",
+                    "type": 0
+                }
+            ],
+            "children": [
+                {
+                    "typeGuid": "508647ca-01f3-4930-9e33-4562692b719f",
+                    "instanceGuid": "7d3d3e2d-89b9-12fe-7760-5f05a13c864d",
+                    "data_components": [
+                        {
+                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                            "name": "Border Straight Mini Arena Collider"
+                        }
+                    ],
+                    "children": [
+                        {
+                            "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
+                            "instanceGuid": "1db4a195-376b-7ae0-413e-c2e7ec9e5f03",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "Border Straight Mini Arena"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "cf7823d8-b0f8-e137-54b6-feac2325f150",
+                                "material_instance": "5eb9d1de-3227-e0f1-8609-07dbf1669399"
+                            }
+                        }
+                    ],
+                    "508647ca-01f3-4930-9e33-4562692b719f": {
+                        "mesh": "cf7823d8-b0f8-e137-54b6-feac2325f150"
+                    },
+                    "10dceba7-be9f-4a9d-9902-6f51bed634ab": {
+                        "physical_material": "db5dc618-2cfe-44e9-a319-69c503d090e7"
+                    }
+                }
+            ]
+        }
+    ],
+    "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+        "scene": "370d307c-dc03-06aa-838c-2237ae7ebf92"
+    },
+    "dependencies": [
+        "5eb9d1de-3227-e0f1-8609-07dbf1669399",
+        "cf7823d8-b0f8-e137-54b6-feac2325f150",
+        "db5dc618-2cfe-44e9-a319-69c503d090e7"
+    ],
+    "thumbnailGuid": "4f0824b3-e23b-3013-2fb8-9a83d65792ac"
+}
