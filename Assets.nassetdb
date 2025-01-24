@@ -1330,7 +1330,5 @@
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Objects/SC_Mini_Arena.scene.nasset/Bricks.mesh.nasset/Thumbnails/Bricks.mesh.nasset.tex.nasset"
     },
-    "guid": "762155fb-e128-1f52-91de-d5fec7564ded",
-    "imported_assets": [
-    ]
+    "guid": "762155fb-e128-1f52-91de-d5fec7564ded"
 }
